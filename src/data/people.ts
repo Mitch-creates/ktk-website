@@ -14,7 +14,7 @@ export const people: Person[] = [
     distance: "40",
     imageSrc: "images/Gauthier40.png",
     motivation:
-      "Ik loop heel graag, ik heb speciaal voor deze loop nieuwe loopschoenen aangeschaft, let's get it on!",
+      "Mens sana in corpore sano! Lopen houdt mijn batterij opgeladen.",
     backgroundColor: "t-pink",
     imageLoaded: false,
   },
@@ -43,7 +43,7 @@ export const people: Person[] = [
     distance: "10",
     imageSrc: "images/Lara10.png",
     motivation:
-      "Ik loop heel graag, ik heb speciaal voor deze loop nieuwe loopschoenen aangeschaft, let's get it on!",
+      "Zelf lopen is leuk, maar samen lopen voor een goed doel is nog leuker. Samen zetten we ons in om het verschil te maken en bij te dragen aan de strijd tegen kanker!",
     backgroundColor: "t-red",
     imageLoaded: false,
   },
@@ -83,7 +83,7 @@ export const people: Person[] = [
     distance: "10",
     imageSrc: "images/Juan10.png",
     motivation:
-      "Ik loop heel graag, ik heb speciaal voor deze loop nieuwe loopschoenen aangeschaft, let's get it on!",
+      "Van supporter naar loper: die energie langs de zijlijn drijft me nu voor mijn eerste 10km!",
     backgroundColor: "t-red",
     imageLoaded: false,
   },
